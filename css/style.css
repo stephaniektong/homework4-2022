@@ -38,9 +38,8 @@ h4{
 }
 
 .pricing{
-    display:flex;
+    display:inline-flex;
     flex-wrap:wrap;
-    /* flex-direction:column; */
     justify-content: center;
     align-content: center;
 }
